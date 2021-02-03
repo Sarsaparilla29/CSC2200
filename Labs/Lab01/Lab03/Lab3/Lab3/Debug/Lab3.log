@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (._Lab3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test3.cpp
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(64,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(77,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(90,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(102,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(114,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(126,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(141,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(156,33): warning C4101: 'e': unreferenced local variable
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\ListArray.cpp(127,1): error C2562: 'List<char>::gotoBeginning': 'void' function returning a value
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\ListArray.h(48): message : see declaration of 'List<char>::gotoBeginning'
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\ListArray.cpp(125): message : while compiling class template member function 'void List<char>::gotoBeginning(void) throw(std::logic_error)'
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(112): message : see reference to function template instantiation 'void List<char>::gotoBeginning(void) throw(std::logic_error)' being compiled
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(31): message : see reference to class template instantiation 'List<char>' being compiled
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\ListArray.cpp(136,1): error C2562: 'List<char>::gotoEnd': 'void' function returning a value
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\ListArray.h(50): message : see declaration of 'List<char>::gotoEnd'
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\ListArray.cpp(135): message : while compiling class template member function 'void List<char>::gotoEnd(void) throw(std::logic_error)'
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab03\Lab3\Lab3\test3.cpp(124): message : see reference to function template instantiation 'void List<char>::gotoEnd(void) throw(std::logic_error)' being compiled

@@ -1,0 +1,7 @@
+﻿  Text.cpp
+C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab01\Text.cpp(8,1): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(454): message : see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+  test1.cpp
+  textio.cpp
+  Generating Code...
+  Lab01.vcxproj -> C:\Users\jacob\Desktop\Winter2021\CSC2200\Lab01\Lab01\Debug\Lab01.exe
